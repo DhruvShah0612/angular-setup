@@ -23,7 +23,7 @@ $loading-icon-suffix-width: 30px;
     &::part(base) {
       transition:
         color 0.3s ease,
-        background-color 0.3s ease,
+        background-color 0.3s red,
         border-color 0.3s ease;
     }
 
