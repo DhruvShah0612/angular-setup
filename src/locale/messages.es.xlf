@@ -2,7 +2,7 @@
   <file source-language="en" target-language="es" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="8083833302822858845" datatype="html">
-        <source>¡Welcome back!</source>
+        <source>¡hello guys!</source>
         <target state="new">¡Bienvenido de nuevo!</target>
       </trans-unit>
       <trans-unit id="1431416938026210429" datatype="html">
